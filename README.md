@@ -1,4 +1,4 @@
-# Enhancing-Large-Language-Model-with-Human-Feedback-via-Reinforcement-Learning
+# Enhancing Large Language Model with Human Feedback via Reinforcement Learning
 
 This repository contains code and resources for a project exploring the integration of human feedback into Reinforcement Learning models. The project investigates how incorporating human insights can enhance the learning process and decision-making abilities of AI systems.
 
