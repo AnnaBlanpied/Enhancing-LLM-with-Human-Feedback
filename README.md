@@ -18,8 +18,8 @@ Reinforcement Learning, a branch of machine learning, involves training algorith
 ## Contents
 
 - `notebooks/`: Contains Jupyter Notebook files:
-  - `Reward_Modeling.ipynb`: Notebook for implementing RL algorithms.
-  - `PPO_Implementation.ipynb`: Notebook for integrating human feedback into RL.
+  - `Reward_Modeling.ipynb`: Training a reward model.
+  - `PPO_Implementation.ipynb`: Optimization with Proximal Policy Optimization (PPO).
 - `reports/`: Contains project report:
   - `project_report.pdf`: Detailed report on the project methodology, findings, and insights.
 - `README.md`: Main project overview and instructions.
