@@ -23,7 +23,7 @@ Reinforcement Learning, a branch of machine learning, involves training algorith
   - `Reward_Modeling.ipynb`: Training a reward model.
   - `PPO_Implementation.ipynb`: Optimization with Proximal Policy Optimization (PPO).
 - `reports/`: Contains project report:
-  - `project_report.pdf`: Detailed report on the project methodology, findings, and insights.
+  - `Enhancing LLM with RLHF.pdf`: Detailed report on the project methodology, findings, and insights.
 - `README.md`: Main project overview and instructions.
 
 ## References
