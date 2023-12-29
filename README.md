@@ -28,6 +28,8 @@ Reinforcement Learning, a branch of machine learning, involves training algorith
 
 Code structure is inspired by :
 
+[Quickstart]([https://www.google.com](https://huggingface.co/docs/trl/quickstart))
+
 @misc{quickstart-huggingface,
   title={Quickstart},
   journal={Huggingface},
