@@ -28,25 +28,7 @@ Reinforcement Learning, a branch of machine learning, involves training algorith
 
 Code structure is inspired by :
 
-[Quickstart](https://huggingface.co/docs/trl/quickstart)
-
-@misc{quickstart-huggingface,
-  title={Quickstart},
-  journal={Huggingface},
-  howpublished={\url{https://huggingface.co/docs/trl/quickstart}}
-}
-
-@misc{rewardmodeling-huggingface,
-  title={Reward Modeling},
-  journal={Huggingface},
-  howpublished={\url{https://huggingface.co/docs/trl/reward_trainer}}
-}
-
-@misc{ppotrainer-huggingface,
-  title={PPO Trainer},
-  journal={Huggingface},
-  howpublished={\url{https://huggingface.co/docs/trl/ppo_trainer}}
-}
+[Quickstart](https://huggingface.co/docs/trl/quickstart), [Reward Modeling](https://huggingface.co/docs/trl/reward_trainer), [PPO Trainer](https://huggingface.co/docs/trl/ppo_trainer)
 
 
 
