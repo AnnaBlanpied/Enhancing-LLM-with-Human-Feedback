@@ -25,7 +25,7 @@ Reinforcement Learning, a branch of machine learning, involves training algorith
 - `reports`: Contains project report:
   - `Enhancing LLM with RLHF.pdf`: Detailed report on the project methodology, findings, and insights.
 - `dataset`:
-  - `Sample Outputs.csv`
+  - `Sample Outputs.csv`: Outputs from de PPO implementation
 - `README.md`: Main project overview and instructions.
 
 ## References
