@@ -34,5 +34,8 @@ Code structure is inspired by :
 
 [Quickstart](https://huggingface.co/docs/trl/quickstart), [Reward Modeling](https://huggingface.co/docs/trl/reward_trainer), [PPO Trainer](https://huggingface.co/docs/trl/ppo_trainer) from Hugging Face
 
+## Acknowledgements
 
+- Thanks to @AdilZouitine for the inspiration and advice.
+- Thanks to @killian31 for his review.
 
